@@ -1,0 +1,1 @@
+eb: pyhton main.py
